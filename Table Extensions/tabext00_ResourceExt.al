@@ -33,6 +33,7 @@ tableextension 50100 "CSD ResourceExt" extends Resource
             DataClassification = AccountData;
         }
     }
+
 }
 
 
